@@ -10,6 +10,7 @@
     "test": "NODE_ENV=test jest --watch"
   },
   "author": "Anthony Sifontes",
+  "repository": "https://github.com/amsifontes/nile-app-frontend",
   "license": "ISC",
   "dependencies": {
     "@apollo/client": "3.4.0",
